@@ -1,0 +1,5 @@
+controller-backup.json
+srs-device-backup.json
+*.log
+Thumbs.db
+.DS_Store
